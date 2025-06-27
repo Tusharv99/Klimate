@@ -12,7 +12,7 @@ const Header = () => {
             <Link to={"/"}>
              <img
               src={theme === "dark" ? "/logo.png" : "/logo2.png"} 
-             alt="logo"  className='h-14'/>
+             alt="logo"  className='h-15'/>
             </Link>
             <div className='flex gap-4'>
                   {/* search */}
